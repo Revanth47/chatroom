@@ -1,0 +1,68 @@
+#div1
+{
+	height: 100px;
+	margin-left: 575px;
+	float: top;
+}
+#div2
+{
+
+	padding-left: 575px;
+	padding-top: 100px;
+}
+#div3
+{
+	padding-left: 300px;
+	padding-top: 50px;
+}
+#div4
+{
+	padding-top: 100px;
+	padding-left: 20px;
+	width: 300px;
+	float: left;
+}
+#div5
+{
+	padding-left: 450px;
+}
+#div6
+{
+	padding-left: 500px;
+	padding-top: 100px;
+}
+#div7
+{
+	float: right;
+}
+body
+{
+	background-color: cyan;
+	font-weight: bold;
+	float:middle;
+	vertical-align: top;
+	color: red;
+}
+.form-control:focus
+{
+	background-color: yellow;
+	border-color:red;
+}
+#chatt
+{
+	border-style: solid;
+	border-color: yellow;
+	width: 500px;
+	height:500px;
+	padding-top: 20px;
+	padding-left: 50px;
+	margin-left: 400px;
+	margin-top: 50px;
+	background-color: black;
+	overflow: auto;
+}
+#a1
+{
+	color: red;
+	background-color: blue;
+}
